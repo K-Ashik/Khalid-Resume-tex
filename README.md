@@ -1,4 +1,4 @@
-# Waleed-Resume-v3
+# Khalid's Resume
 Used Template 2 (based on [Awesome CV](https://www.overleaf.com/latex/templates/awesome-cv/dfnvtnhzhhbm)) on [resumake.io](https://resumake.io) as a starting point.
 
 ## Usage
